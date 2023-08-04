@@ -1,5 +1,8 @@
 import React from 'react';
 import Products from '../components/products'
+import pizza_logo from "../images/pizza.png"
+
+
 const Home = () =>{
     return (
         <>
@@ -11,7 +14,7 @@ const Home = () =>{
                         <button className="px-6 py-2 rounded-full text-white font-bold mt-4 bg-yellow-500 hover:bg-yellow-600">Order Now</button>
                     </div>
                     <div className="w-1/2">
-                        <img className="w-4/5"src="/images/pizza.png" alt="pizza"/>
+                        <img className="w-4/5"src={pizza_logo} alt="pizza"/>
                     </div>
             </div>
         </div>
