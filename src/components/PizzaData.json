@@ -1,0 +1,54 @@
+{
+
+
+
+
+    "pizzaData":[
+        {
+        "_id":1,
+        "name":"Apple Pizza",
+        "Price":500,
+        "size":"small",
+        "image":"data:image/jpeg;base64,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"
+        
+        },
+        {
+            "_id":2,
+            "name":"Chicken Pizza",
+            "Price":700,
+            "size":"large",
+            "image":"https://hips.hearstapps.com/hmg-prod/images/classic-cheese-pizza-recipe-2-64429a0cb408b.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*"
+            
+            },
+            {
+                "_id":3,
+                "name":"margaritte Pizza",
+                "Price":400,
+                "size":"medium",
+                "image":"https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/paneer-pizza-recipe-1.jpg"
+                
+        },
+        {
+            "_id":4,
+            "name":"Cheese Pizza",
+            "Price":300,
+            "size":"small",
+            "image":"https://media.istockphoto.com/id/1192094401/photo/delicious-vegetarian-pizza-on-white.jpg?s=612x612&w=0&k=20&c=Qsm2ikAI0Oz5JMu2COCmAODV_5U7YZtipj8Ic7BtJF8="
+        },
+        {
+            "_id":5,
+            "name":"Mushroom Pizza",
+            "Price":400,
+            "size":"medium",
+            "image":"https://www.shutterstock.com/shutterstock/photos/1993220516/display_1500/stock-photo-homemade-indian-chicken-tikka-masala-pizza-with-onions-and-cilantro-1993220516.jpg"
+
+    }
+
+        
+        
+        
+        ]
+
+      
+        
+}
